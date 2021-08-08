@@ -1,11 +1,10 @@
 <?php
-
 class Ruta
 {
-    static public funtion ctrRuta()
+
+    public static function ctrRuta()
     {
         return "http://localhost/mecanica/";
     }
-}
 
-?>
+}
